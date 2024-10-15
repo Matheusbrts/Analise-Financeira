@@ -1,0 +1,6 @@
+﻿id_departamento,nome_departamento,orcamento_departamento,chefe_departamento,numero_funcionarios,objetivos_departamento,localizacao
+1,Engenharia,1200000,Alice Silva,2,Desenvolver novos produtos,Predio A
+2,Marketing,800000,Rodrigo Oliveira,2,Aumentar reconhecimento da marca,Predio B
+3,Vendas,600000,Diana Rodrigues,3,Aumentar vendas,Predio C
+4,Recursos Humanos,400000,Eva Almeida,2,Melhorar engajamento dos funcionarios,Predio D
+5,TI,450000,Pedro Cardoso,2,Melhorar a infraestrutura de TI,Predio E

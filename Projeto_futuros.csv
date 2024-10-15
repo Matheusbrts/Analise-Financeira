@@ -1,0 +1,7 @@
+id_projeto,nome_projeto,orçamento_projeto,data_início_projeto,data_fim_projeto,id_departamento,líder_do_projeto
+201,Reformulação do Website,60000,15/01/2025,30/06/2025,5,Alice Silva
+202,Estratégia de Mídia Social,45000,20/02/2025,10/9/2025,2,Rodrigo Oliveira
+203,Lançamento de Produto,80000,30/03/2025,31/12/2025,3,Pedro Cardoso
+210,Nova Campanha de Marketing,60000,10/9/2025,10/12/2025,4,Diana Rodrigues
+206,Desenvolvimento de App Móvel,70000,10/6/2025,15/08/2025,1,Eva Almeida
+207,Otimização de SEO,50000,1/8/2025,1/11/2025,2,Fernando Gonçalves

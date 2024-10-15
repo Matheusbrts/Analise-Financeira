@@ -1,0 +1,11 @@
+id_projeto,nome_projeto,orçamento_projeto,data_início,data_fim,id_departamento,department_id
+201,Reformulação do Website,60000,15/01/2024,30/06/2025,1,1
+202,Estratégia de Mídia Social,45000,20/02/2024,10/9/2025,2,2
+203,Lançamento de Produto,80000,30/03/2024,31/12/2025,3,3
+204,Integração de CRM,50000,20/01/2022,20/01/2023,1,1
+205,Reposicionamento de Marca,70000,1/4/2022,1/4/2023,2,2
+206,Desenvolvimento de App Móvel,70000,10/6/2024,15/08/2025,1,1
+207,Otimização de SEO,50000,1/8/2024,1/11/2025,2,2
+208,Sistema de Suporte ao Cliente,55000,15/12/2022,15/12/2022,3,3
+209,Pesquisa de Mercado,30000,25/03/2022,25/03/2023,4,4
+210,Nova Campanha de Marketing,60000,10/9/2024,10/12/2025,4,4

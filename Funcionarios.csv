@@ -1,0 +1,11 @@
+﻿id_funcionario,primeiro_nome,sobrenome,email,cargo,salario,data_contratacao,id_departamento
+1001,Lucas,Silva,lucas.silva@example.com,Engenheiro de Software,85000,12/5/2018,1
+1002,Ana,Costa,ana.costa@example.com,Gerente de Marketing,78000,10/3/2020,2
+1003,Miguel,Ferreira,miguel.ferreira@example.com,Cientista de Dados,95000,1/9/2016,3
+1004,Camila,Silva,camila.silva@example.com,Gerente de RH,70000,15/07/2019,4
+1005,Roberto,Roberto,roberto.oliveira@example.com,Executivo de Vendas,72000,20/11/2017,3
+1006,Fernanda,Fernanda,fernanda.souza@example.com,Gerente de Operacoes,80000,5/1/2015,2
+1007,Guilherme,Almeida,guilherme.almeida@example.com,Analista de Negocios,75000,22/06/2021,1
+1008,Sofia,Pereira,sofia.pereira@example.com,Gerente de Produto,90000,8/12/2018,4
+1009,Davi,Martins,davi.martins@example.com,Especialista em TI,68000,29/10/2019,5
+1010,Olivia,Carvalho,olivia.carvalho@example.com,Analista Financeiro,83000,18/04/2016,5
