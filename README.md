@@ -7,3 +7,6 @@ Este projeto desenvolvido para realizar uma análise detalhada de **finanças** 
 - Comparar os **custos de projetos** e **salários** por departamento.
 - Identificar setores com maior **alocação de capital** para os próximos anos.
 - Observar os departamentos que podem estar **prejudicando o orçamento de capital** ou que precisam de ajustes para melhorar a distribuição de recursos.
+
+  ![image](https://github.com/user-attachments/assets/5c5b8f20-2509-4755-8976-13c7560e2259)
+
