@@ -4,7 +4,6 @@
 Este projeto foi desenvolvido para realizar uma análise detalhada de **finanças** e da **atribuição de recursos** de uma empresa fictícia. Utilizando SQL para consultas e Power BI para visualizações, o objetivo principal foi entender a distribuição de custos entre departamentos e o impacto dos projetos sobre o capital  da empresa.
 
 ## Tecnologias Utilizadas
-- **Python**
 - **SQL**
 - **Power BI**
 
